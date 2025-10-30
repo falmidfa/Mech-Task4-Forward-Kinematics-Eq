@@ -1,5 +1,7 @@
 # Mech-Task4-ForwardKinematics-Eq
 Writing the forward kinematics eq for the given example 
+
+
 <img width="479" height="319" alt="image" src="https://github.com/user-attachments/assets/2238a24f-1b8a-40a4-8ca9-59eea32fa6c9" />
 
 
