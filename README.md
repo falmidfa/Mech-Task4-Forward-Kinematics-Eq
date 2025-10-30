@@ -1,5 +1,7 @@
 # Mech-Task4-ForwardKinematics-Eq
 Writing the forward kinematics eq for the given example 
+<img width="1321" height="406" alt="image" src="https://github.com/user-attachments/assets/8d559aeb-3f29-4d7d-b24a-11a791ee1262" />
+
 
 ## The general formula
 - x=L1*cos(theta1) + L2*cos(theta1+theta2) + L3*cos(theta1+theta2+theta3)
